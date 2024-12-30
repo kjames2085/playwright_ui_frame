@@ -1,0 +1,25 @@
+{
+  "name": "playwright_ui_frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjames2085/playwright_ui_frame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjames2085/playwright_ui_frame/issues"
+  },
+  "homepage": "https://github.com/kjames2085/playwright_ui_frame#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
